@@ -36,6 +36,19 @@ int main()
     printf("num2=%f\n",num2);
     printf("char=%c\n",character);
 
+    scanf("Enter value of num = %d",&num);
+
+
+    scanf("Enter value of num2 = %f",&num2);
+
+
+    scanf("Enter value of num char = %c",&character);
+  
+    printf("num=%d\n",num);
+    printf("num2=%f\n",num2);
+    printf("char=%c\n",character);
+
+
 
 
 
