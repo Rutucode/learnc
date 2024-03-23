@@ -2,6 +2,7 @@
 
 int main()
 { 
+    //Float variable use for storing decimal numbers//
     float dividend,divisor, ans;
 
     printf("Enter value of dividend \n");
